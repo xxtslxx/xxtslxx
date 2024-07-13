@@ -1,4 +1,4 @@
-## Oiii eu sou Tassio Lima, Estudante de Analise e Desenvolvimento de Sistemas!
+## Oiii eu sou Tassio Lima, Formado em Analise e Desenvolvimento de Sistemas!
 
 <div align="center">
   <a href="https://github.com/xxtslxx">
